@@ -175,8 +175,5 @@
     }
   ],
   "installCommand": "pnpm install",
-  "devCommand": "pnpm dev",
-  "frameworkVersion": {
-    "next": "14.1.0"
-  }
+  "devCommand": "pnpm dev"
 }
